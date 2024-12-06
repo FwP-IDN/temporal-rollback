@@ -1,0 +1,14 @@
+{
+  "WorkflowVersionOverrideFlags": {
+    "OrderWorkflow:ProcessOrder": [
+      {
+        "overriddenVersion": -1,
+        "rolloutWeight": 90
+      },
+      {
+        "overriddenVersion": 2,
+        "rolloutWeight": 10
+      }
+    ]
+  }
+}
